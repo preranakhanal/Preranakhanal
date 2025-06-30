@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prerana Khanal</h1>
-<img src="" alt="banner" width="100%" />
+<img src="githubimage.png" alt="banner" width="100%" />
 - 🔭 I’m currently working on **Something Interesting**
 
 - 💬 Ask me about **Frontend development or how to get started in cybersecurity**
