@@ -1,11 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Prerana Khanal</h1>
 <img src="githubimage.png" alt="banner" width="100%" />
 
--🎓 A Cybersecurity student passionate about **building a safer digital world.**
-
--💻 A growing Frontend Developer who loves turning ideas into **responsive, accessible, and user-friendly interfaces.**
+- 🎓 A Cybersecurity student passionate about **building a safer digital world**
 
 - 💬 Ask me about **Frontend development or how to get started in cybersecurity**
+
+- 💻 A growing Frontend Developer who loves turning ideas into **responsive, accessible, and user-friendly interfaces.**
 
 - 🧠 Fun fact: **I enjoy breaking down complex problems and simplifying them in code**
 
