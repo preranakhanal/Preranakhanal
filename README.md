@@ -9,8 +9,8 @@
 
 ## About me
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-- 🎓  A Cybersecurity student passionate about **building a safer digital world****
 
+- 🎓 A Cybersecurity student passionate about **building a safer digital world**
 - 💬 Ask me about **Frontend development or how to get started in cybersecurity**
 
 - 💻 A growing Frontend Developer who loves turning ideas into **responsive, accessible, and user-friendly interfaces**
